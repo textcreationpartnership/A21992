@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King whereas wee are giuen to vnderstand, that since our entrie into this kingdome many of our subiects of our realme of Scotland, and some also of England ... doe not obserue our lawes, but to the intent to defraud vs of our sayd customes, doe goe with their goods and merchandizes ouer the Fells ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1603</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21992</idno>
+            <idno type="STC">STC 8338</idno>
+            <idno type="STC">ESTC S3701</idno>
+            <idno type="EEBO-CITATION">33150797</idno>
+            <idno type="OCLC">ocm 33150797</idno>
+            <idno type="VID">28760</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21992)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28760)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King whereas wee are giuen to vnderstand, that since our entrie into this kingdome many of our subiects of our realme of Scotland, and some also of England ... doe not obserue our lawes, but to the intent to defraud vs of our sayd customes, doe goe with their goods and merchandizes ouer the Fells ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, Printer to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno 1603.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Other title information from first 9 lines of text.</note>
+                  <note>Line 1 of text ends "into."</note>
+                  <note>Contains woodcut initial possibly illustrating Cain and Abel.</note>
+                  <note>"Giuen vnder our hand at Wilton, the fourth day of November, in the first yeere of our Reigne of England, France and Ireland, and the seuen and thirtieth of Scotland."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Smuggling --  Great Britain --  Early works to 1800.</term>
+               <term>Customs administration --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28760:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>¶ By the King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas wee are giuen to vnderſtand, that ſince our entrie into</hi> this Kingdome many of our Subiects of our Realme of Scot<g ref="char:EOLhyphen"/>land, and ſome alſo of England (who by the ancient Lawes and Cuſtomes of this Realme are bound to bring all ſuch goods and Marchandizes as paſſe betweene the two Realmes, either to the City of <hi>Carlile</hi> or Towne of <hi>Barwick</hi> (if the ſame be caried by land) or elſe to ſhip the ſame at ſome Port, whereby our Cuſtomes and Duties may be iuſtly anſwered to vs) doe not obſerue our Lawes, but to the intent to de<g ref="char:EOLhyphen"/>fraud vs of our ſayd Cuſtomes, doe goe with their goods and merchandizes ouer the Fells, and other by-paſſages, whereby great damage hath bene to vs, and more is like to be, if the ſame be not preuented: wee haue therefore thought conuenient hereby ſtraightly to charge and commaund all our Subiects, as well of the one Realme as of the other, That none of them preſume hereafter to paſſe any goods from ech Realme to other, but either ſhipped at ſome knowen Port, or els through our ſayd Citie of <hi>Carlile</hi> or Towne of <hi>Barwick,</hi> vnder paine of Confiſcation of all goods that ſhall be feazed paſſing any other way. And wee hereby ſtraightly enioyne all Lieutenants, Deputy Lieutenants, Iuſtices of Peace, Mayors, Sheriffes, Bayliffes, Conſtables, Cuſtomers, Comptrollers, Searchers, and all other our Officers, Miniſters, and louing Subiects whatſoeuer, to haue a ſpeciall care and watch to the obſeruation of this our Pleaſure, and to be aiding and aſſiſting to any that ſhall giue them Information of the paſſing of goods by indirect wayes, and to feaze or cauſe the ſame to be feazed to our vſe, as they will anſwere the contrary at their vttermoſt perill.</p>
+            <closer>
+               <dateline>Giuen vnder our hand at Wilton, <date>the fourth day of Nouember, in the firſt yeere of our Reigne of England, France and Ireland, and the ſeuen and thirtieth of Scotland.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Maieſtie. Anno 1603.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
